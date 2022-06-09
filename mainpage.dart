@@ -9,7 +9,7 @@ void main() {
       child: Center(
         // ignore: prefer_const_constructors
         child: Text(
-          "new modern school",
+          "new modern english school",
           textDirection: TextDirection.ltr,
           // ignore: prefer_const_constructors
           style: TextStyle(color: Color.fromARGB(255, 27, 221, 179), fontSize: 30.0),
